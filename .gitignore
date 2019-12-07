@@ -1,3 +1,8 @@
+*.pyc
+platformio/*.pyc
+.pio/
+.vscode/
+
 # Prerequisites
 *.d
 

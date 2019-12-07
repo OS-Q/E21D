@@ -1,17 +1,13 @@
-﻿# [Framework N1](https://github.com/OS-Q/N1)
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
+﻿# [Framework N01](https://github.com/OS-Q/N01)
 
-[EDGE-Q](https://github.com/OS-Q/EDGE-Q) -> Q[4] -> M[12] -> W[52] -> D[365] -> H[24] -> N[60] -> S[60]
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [Framework描述](https://github.com/OS-Q/N1/wiki) 
+#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
+#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
 
-[Framework N1](https://github.com/OS-Q/N1) 用于支持STM32平台运行
+### [Framework 描述](https://github.com/OS-Q/N01/wiki) 
 
-### [关联资源](https://github.com/OS-Q/)
+[Framework N01](https://github.com/OS-Q/N01) 基于PlatformIO平台，应用于[STM32](https://github.com/sochub/STM32) 系列的cubeMX框架
 
- *  [ Platform : STM32](https://github.com/OS-Q/H1) 
- *  [ M1](https://github.com/OS-Q/M1) 
-
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N1)
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N01)
 ####  2019-9-9
