@@ -7,7 +7,7 @@
 
 ### [Framework 描述](https://github.com/OS-Q/N01/wiki) 
 
-[Framework N01](https://github.com/OS-Q/N01) 基于PlatformIO平台，应用于[STM32](https://github.com/sochub/STM32) 系列的cubeMX框架
+[Framework N01](https://github.com/OS-Q/N01) 基于PlatformIO平台，应用[cubeMX](http://www.st.com/en/embedded-software/stm32cube-embedded-software.html) 框架
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N01)
 ####  2019-9-9

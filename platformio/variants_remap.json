@@ -1,8 +1,10 @@
 {
     "disco_f030r8": "STM32F0308-Discovery",
+    "STM32F031K6": "STM32F0xx_Nucleo_32",
     "nucleo_f031k6": "STM32F0xx_Nucleo_32",
     "nucleo_f042k6": "STM32F0xx_Nucleo_32",
     "nucleo_f070rb": "STM32F0xx-Nucleo",
+    "STM32F072RB": "STM32F0xx-Nucleo",
     "nucleo_f072rb": "STM32F0xx-Nucleo",
     "nucleo_f091rc": "STM32F0xx-Nucleo",
     "nucleo_f103rb": "STM32F1xx_Nucleo",

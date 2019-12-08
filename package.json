@@ -1,5 +1,5 @@
 {
-	"description": "Q Framework STM32CubeMX",
+	"description": "Framework N01 STM32 CubeMX",
 	"name": "framework-N01",
 	"system": "*",
 	"url": "http://www.st.com/en/embedded-software/stm32cube-embedded-software.html",
