@@ -1,13 +1,11 @@
-﻿# [Framework N01](https://github.com/OS-Q/N01)
+﻿# [N2A](https://github.com/OS-Q/N2A)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
-#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
+[![Build Status](https://github.com/OS-Q/N2A/workflows/N2A/badge.svg)](https://github.com/OS-Q/N2A/actions)
 
-### [Framework 描述](https://github.com/OS-Q/N01/wiki) 
+### [简介](https://github.com/OS-Q/N2A/wiki)
 
-[Framework N01](https://github.com/OS-Q/N01) 基于PlatformIO平台，应用[cubeMX](http://www.st.com/en/embedded-software/stm32cube-embedded-software.html) 框架
+[N2A](https://github.com/OS-Q/N2A) 用于适配 [P21](https://github.com/OS-Q/P21)
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N01)
-####  2019-9-9
+### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)
